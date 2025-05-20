@@ -1,0 +1,4 @@
+*.db #   Database files
+*.log #   Log files
+target/ #   Build output directory
+bin/ #   Binary files
